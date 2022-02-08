@@ -1,0 +1,15 @@
+X=10
+Y=5
+Print('x+y=', x+y) 
+Print('x-y=', x-y) 
+Print('x*y=', x*y) 
+Print('x/y=', x/y)
+Print('x//y=', x//y) 
+Print('x**y=', x**y) 
+Output:
+X+y=15
+X-y=5
+X*y=50
+X/y=2.0
+X//y=2
+X**y=100000
